@@ -1,0 +1,7 @@
+bin/dao/BookDao.class
+bin/entity/Book.class
+bin/entity/Language.class
+bin/main/AppStart.class
+bin/service/BookService.class
+bin/Utils/BookUtils.class
+bin/view/MainPage.class

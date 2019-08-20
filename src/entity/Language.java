@@ -1,0 +1,14 @@
+package entity;
+
+public enum Language {
+TURKISH,
+ENGLISH,
+RUSSIAN,
+CHINEESE,
+JAPANESE,
+INDIAN,
+FRENCH,
+GERMAN,
+SPANISH,
+OTHER
+}
